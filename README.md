@@ -1,4 +1,5 @@
-# pandas-datastructure
+# pandas: data structure
+
 1. creating series
 2. creating dataframe
 3. Series
