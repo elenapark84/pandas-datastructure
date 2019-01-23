@@ -4,7 +4,7 @@
 2. creating dataframe
 3. Series
 4. boolean subsetting series
-5. operations automatically alighed and vectorized
+5. operations automatically aligned and vectorized
 6. vectors with common index lebels(automatic alignment)
 7. boolean subsetting data frame
 8. operations automatically alighed and vectorized(broadcasting)
